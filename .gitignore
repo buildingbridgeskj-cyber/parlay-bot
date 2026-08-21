@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.parlay_bot.db
+*.db
+.env
+.venv/
